@@ -5,7 +5,7 @@
 <style>
 body {
     font-family: Arial;
-    background: linear-gradient(to right, #4facfe, #00f2fe);
+    background: linear-gradient(to right, #4facfe, #0a6e74);
 }
 .box {
     width: 300px;
